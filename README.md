@@ -1,6 +1,6 @@
 <img src="https://github.com/Cirex69/Cirex69/blob/main/81bb4b165684019.640b6038d133e.gif"/>
 <h1 align="left">Hey 👋 My name is Ciro</h1>
-https://github.com/Cirex69/Cirex69/blob/main/81bb4b165684019.640b6038d133e.gif
+
 ###
 
 <br clear="both">
