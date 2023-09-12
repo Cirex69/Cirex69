@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages and Tools:</h2>
 
 ###
 
@@ -82,6 +82,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40""/>
 </div>
 
 ###
@@ -98,14 +99,18 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
 </a>
 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+<a href="mailto:ciroguareguarm@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
+
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cirex69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cirex69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirex69&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cirex69&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/></p>
+<a href="https://visitcount.itsvg.in/api?id=cirex69&icon=0&color=6">
+        <img src="https://visitcount.itsvg.in/api?id=cirex69&icon=0&color=6" alt="Visitor Count">
+    </a>
+
